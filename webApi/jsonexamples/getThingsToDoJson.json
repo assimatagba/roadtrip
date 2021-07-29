@@ -1,0 +1,834 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwJdo2WmK7VraPtMYCdbxlQWklP85xBehpirvRzQhOBvCO6EQtY2o-v00MwWoijykghe_B7rmjSpUpZXKCJXJG1V_8kARKwdf1oi7r9XuRjb9bMojMzvt6GogrSyxV_OEMeu8-0VM2SCloudp_a--VjSUr3qgSmIWTRPwDuJAN2HkQWMGxFoWLm344CAZ1jdL0w6r0h4aFTzPkZfGLPNkG1DIjjTgyYTQ0B92T9nHTIF7w089rtBb7A08SPx8_vpnmC9XC_KhjO7i2D7ttxKBsCthRpfklNhvFGYqiHKJ0kKT-ps01-6xSIzr-MXCp5jpaChtYikRci3f_fmKCXUwk0UEqtPU23NgyCPYk2TO8r6_rVI4AQeNqL3PmODz_PgYd5RKTJVFhfDVB0z4BIGHuByLQhNIQ",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ouagadougou, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.3965284,
+               "lng" : -1.4968131
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.39787822989272,
+                  "lng" : -1.495463270107278
+               },
+               "southwest" : {
+                  "lat" : 12.39517857010728,
+                  "lng" : -1.498162929892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Faso Parc",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110418808859239126138\"\u003eBabacar Mathew Fall\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJG4o5p6T5LccOwBjaPoapz8HwA7GIE1NQCET6-SZyRMP_CZH_3e23beB6_5G0siZnL2Y8PInINyp5qKL0zL5Fb9cDkcFMdp6mTIJh0rt7PVZn00lBPnpW5wFFECiTlTe3XMzS7LBdSzem6v71plLTZ3BjTGgknSW9d2xv2-VUcHRF9",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ5dFnKre_Lg4RqDpObG08mtI",
+         "plus_code" : {
+            "compound_code" : "9GW3+J7 Ouagadougou, Burkina Faso",
+            "global_code" : "7C4W9GW3+J7"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ5dFnKre_Lg4RqDpObG08mtI",
+         "types" : [
+            "amusement_park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 249
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Koulouba, Ouagadougou, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.3735204,
+               "lng" : -1.5166993
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.37488412989272,
+                  "lng" : -1.515286370107278
+               },
+               "southwest" : {
+                  "lat" : 12.37218447010728,
+                  "lng" : -1.517986029892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Musée de la Musique de Ouagadougou",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104281976022163212088\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKOnIzXUKq8mf-W1NCZ1mT03sw3Lu5vu18BImLHbXaOfezuS6EabB4KveEh5nvjuE_g8pHJhW-gwkzc1vWbeSUhuYCzY4o16D7BJ7ak_2ie0Q_ab1Jn8O-7Q4tPV3-Y8ACBMGOWXZpHjW0pVn4bPvHcsu6ARzt2xER1EWZj_A6ebSkA",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJKR4GiSa-Lg4RcbyxUCG08SY",
+         "plus_code" : {
+            "compound_code" : "9FFM+C8 Ouagadougou, Burkina Faso",
+            "global_code" : "7C4W9FFM+C8"
+         },
+         "rating" : 4,
+         "reference" : "ChIJKR4GiSa-Lg4RcbyxUCG08SY",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 114
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ouaga 2000, Ouagadougou, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.3120985,
+               "lng" : -1.50272
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.31318752989272,
+                  "lng" : -1.501542349999999
+               },
+               "southwest" : {
+                  "lat" : 12.31048787010727,
+                  "lng" : -1.50625295
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Monument des Héros Nationaux",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115278177905702279293\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK5YEpLVD-VqBr4KG6iWGNjCa5onWK-cvaIkb1bFtslYuDQrjVVDOLDBWzCtsWGBdQKjMhc1GSPZAueYJeTyiyX9suG-GOcIlQ-HGcKI9e0oxY7jQSbH1aLDM_458OnRI6GgzJtrs_sXB9oFfaKEoRl0PVKNqeuAF8BExzvzFJLyiH2",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJSSB8P5a9Lg4RJO-wh0ExZCE",
+         "plus_code" : {
+            "compound_code" : "8F6W+RW Ouagadougou, Burkina Faso",
+            "global_code" : "7C4W8F6W+RW"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJSSB8P5a9Lg4RJO-wh0ExZCE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 470
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ave de la Cathédrale, Saint Léon, Ouagadougou, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.3619356,
+               "lng" : -1.526989
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.36348107989272,
+                  "lng" : -1.525676070107278
+               },
+               "southwest" : {
+                  "lat" : 12.36078142010728,
+                  "lng" : -1.528375729892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Cathédrale de Ouagadougou",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117061923385035205339\"\u003eIves Martial Agnin N&#39;GUESSAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK95iH-SDOsZuAfdy252c39EuaF9gIvrdos5fcy1g11nSCIa_h7K9KcJXmiToRu-uqjLPMf9eHkfGo_Su3mQe6Y_Roym6cjPhXJmPa8xFXKgf2F5_PHf2ZmI2Tw7uFwLFbNAVy7Y7l-pP8rGCIXYkNui6f9mI3CZByVDlvnxdkTY5yy",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ3XujofOVLg4REGxhPoo5b9c",
+         "plus_code" : {
+            "compound_code" : "9F6F+Q6 Ouagadougou, Burkina Faso",
+            "global_code" : "7C4W9F6F+Q6"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ3XujofOVLg4REGxhPoo5b9c",
+         "types" : [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 559
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Koulouba, Ouagadougou, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.3660514,
+               "lng" : -1.5215395
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.36744442989272,
+                  "lng" : -1.519932670107278
+               },
+               "southwest" : {
+                  "lat" : 12.36474477010728,
+                  "lng" : -1.522632329892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Grande Mosquée de Ouagadougou",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107552913240501909969\"\u003eJérôme Descamps\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLoOqqE2Rvr16KQ5O8nmuyLkvRF-9IAkB1XDGUEVK6n7GdZdb6qxNvX2slk35x0wwStKh_fU7M8qaNZghbxfwvLOvmEdKBCs5xXm5A89ZcLYIAoJGlkL0-dQ0kHvFfNArBrju1CUsKmE25-1EsDAPBopWSsm5AMslBOnUuOqsuauuqD",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJE-w_u4qVLg4RqZXr9nnDm6U",
+         "plus_code" : {
+            "compound_code" : "9F8H+C9 Ouagadougou, Burkina Faso",
+            "global_code" : "7C4W9F8H+C9"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJE-w_u4qVLg4RqZXr9nnDm6U",
+         "types" : [
+            "mosque",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 448
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Avenue Charles-de-Gaulle, Dassasgo, Ouagadougou, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.3818157,
+               "lng" : -1.473345
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.38317322989272,
+                  "lng" : -1.471963920107278
+               },
+               "southwest" : {
+                  "lat" : 12.38047357010728,
+                  "lng" : -1.474663579892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Musée National Du Burkina Faso",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1523,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107556741184467748106\"\u003eMarc Crandall\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL9vx7j_OHdTjI7A6RuW8jwSwFnA55NysR2qR3FLhdQ1fwySFIhiFYmK4_bEO6-inhA0MmQIeZNLfSkmg-0e970T-OBZLq9K5wg_PSNr1iWQuscW-XBQC3znKZjW_0xYfgvzPDEQn3JV36oSKoZ5gsOWBWOCRVZuAg8z5IFmZBqwOtV",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJxSddqvq-Lg4R-uUBc5wyZGQ",
+         "plus_code" : {
+            "compound_code" : "9GJG+PM Ouagadougou, Burkina Faso",
+            "global_code" : "7C4W9GJG+PM"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJxSddqvq-Lg4R-uUBc5wyZGQ",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 108
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "N 3, Ouagadougou, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.3981865,
+               "lng" : -1.488195
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.39953632989272,
+                  "lng" : -1.486845170107278
+               },
+               "southwest" : {
+                  "lat" : 12.39683667010728,
+                  "lng" : -1.489544829892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Parc Bangr Weogo",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118204119392323577021\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIEiT0GRukWKXqTwORet7WdB4XAEo4RH3VujZFpUsj3o1egS8pTNZMQd5pnLTcmH1fvuEuz8p3IbnbhWMmQmxD_H8WZBZ72kGgIjxDzqIKaNSfvZ2ToQ0PFuVAJRCOX8A2Ohsz6P5ft3lZiYCqIdrjjBsKN_o97B-Ofv3l5c945yl3-",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ-yjDtqi_Lg4RwG-oDo9A3ik",
+         "plus_code" : {
+            "compound_code" : "9GX6+7P Ouagadougou, Burkina Faso",
+            "global_code" : "7C4W9GX6+7P"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ-yjDtqi_Lg4RwG-oDo9A3ik",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1975
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Dapoya, Ouagadougou, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.3819868,
+               "lng" : -1.5245297
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.38329517989272,
+                  "lng" : -1.523170020107278
+               },
+               "southwest" : {
+                  "lat" : 12.38059552010728,
+                  "lng" : -1.525869679892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Église de Dapoya",
+         "place_id" : "ChIJCY6DM4GVLg4R2eFCLhEYWXg",
+         "plus_code" : {
+            "compound_code" : "9FJG+Q5 Ouagadougou, Burkina Faso",
+            "global_code" : "7C4W9FJG+Q5"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJCY6DM4GVLg4R2eFCLhEYWXg",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 90
+      },
+      {
+         "formatted_address" : "Ouagadougou, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.3714277,
+               "lng" : -1.5196603
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.4495679,
+                  "lng" : -1.4236093
+               },
+               "southwest" : {
+                  "lat" : 12.2674162,
+                  "lng" : -1.6500773
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+         "name" : "Ouagadougou",
+         "photos" : [
+            {
+               "height" : 348,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102590029835220712917\"\u003einoussa sawadogo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJg-3QFStGBcMITea9yE4ydro2teISnSOj6jNfVkEnFPHTrOpkuYEvvLcXHoVehYeWpvfrY4MyDxd0Utfzmbry-YZapANzh9RlenRIJ6gl41gynqBtPa1OEbG_Awu1ZmxiGDGos4lHwg3z3AgyooLD9imci2cZS6sYJQ9dzlMFmonTP",
+               "width" : 696
+            }
+         ],
+         "place_id" : "ChIJzUSqzuyVLg4Rizt0nHlnn3k",
+         "reference" : "ChIJzUSqzuyVLg4Rizt0nHlnn3k",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ouagadougou, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.3877671,
+               "lng" : -1.4936018
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.38884612989272,
+                  "lng" : -1.492198070107278
+               },
+               "southwest" : {
+                  "lat" : 12.38614647010728,
+                  "lng" : -1.494897729892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Zoo du Bangr Weoogo",
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112656953613848087253\"\u003eMücahit ARSLAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwILYcWf8UM8KeVnqsftRwdLwsaUO-1vlUsTQyWZDAByXQmn8RR0AG_NsU54MfIWXyAaDH4X3FT1OJgztV03rTQTdiZP6dXqMkg2Qkt2-D31N5_Ci3YoiDecabFFkLrEnBI3BZwi0pdQ2pRSlNs4PL9dpQB2zUWpF_DYAWsZ6jzDm9vD",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJnyX4MU2-Lg4RxpHPDcXTlTY",
+         "plus_code" : {
+            "compound_code" : "9GQ4+4H Ouagadougou, Burkina Faso",
+            "global_code" : "7C4W9GQ4+4H"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJnyX4MU2-Lg4RxpHPDcXTlTY",
+         "types" : [ "zoo", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bilbalogho, Ouagadougou, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.3586948,
+               "lng" : -1.5281049
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.36019492989272,
+                  "lng" : -1.526496870107278
+               },
+               "southwest" : {
+                  "lat" : 12.35749527010728,
+                  "lng" : -1.529196529892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Mogho Naba Palace",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109258843108162438434\"\u003eStephanie Sawadogo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIwWe0j9-f6HlA1Xz5WMj-oWdJ08QS3QHdC1fkTmJ4tknDeIdRWqwXPgFDjUPtGtRPr_1jOs85kvyDFU3xBTFva08KzF4HZhuw3CnLI2nSCdfz_66faJY-KFnrC2G9L4Xvb7jpT0XW_DuAfsCIbPaWUTXBIvd-0Lpdso-GRWWYz5l9n",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJE4RzePGVLg4RvqqEe9S_X_o",
+         "plus_code" : {
+            "compound_code" : "9F5C+FQ Ouagadougou, Burkina Faso",
+            "global_code" : "7C4W9F5C+FQ"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJE4RzePGVLg4RvqqEe9S_X_o",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 213
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "N4, Ouagadougou, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.3855684,
+               "lng" : -1.5006051
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.38692762989272,
+                  "lng" : -1.499256920107278
+               },
+               "southwest" : {
+                  "lat" : 12.38422797010728,
+                  "lng" : -1.501956579892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Crocodile Parc Bangr Weogo",
+         "photos" : [
+            {
+               "height" : 3744,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111127635347714116998\"\u003elassina DAVOU\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKX85tmZV9tzIAE9vh57ECkjrj5gw-y3Oniit595mXeCtEW2r0wNuMQSzkW5MFyg-FdQuqlVXrK_dwr0ErmAfowcgc6xcVKVLJqGRInjvkRxcZmE18yXQ80HPIspNqp_CiP5tHJ25t9As9IOf2QDlniqf5YhDPqBAPa_hAPY5WnsR9I",
+               "width" : 5376
+            }
+         ],
+         "place_id" : "ChIJFS9UiUq-Lg4Rbi2VX8fIfQo",
+         "plus_code" : {
+            "compound_code" : "9FPX+6Q Ouagadougou, Burkina Faso",
+            "global_code" : "7C4W9FPX+6Q"
+         },
+         "rating" : 4,
+         "reference" : "ChIJFS9UiUq-Lg4Rbi2VX8fIfQo",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ouaga 2000, Ouagadougou, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.3105673,
+               "lng" : -1.4992683
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.31209277989272,
+                  "lng" : -1.497920070107278
+               },
+               "southwest" : {
+                  "lat" : 12.30939312010728,
+                  "lng" : -1.500619729892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+         "name" : "CanalOlympia Yennenga",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106497673142792151167\"\u003enidjaay thiere\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIMRkCleXVUL07BQ-MHpBnvMs5OuDeEdkuZ7vov-zorFl_ESdeHhpMu4Jt8CxS_JqV1sx7RVBS3oaxfl55t_rvM821Lha1C5Y7ODXrF72bm1yJsBY136N7vknKRXDQRSKTFyhlJI9NPJHb-Zo4APoaMg-z4vibBwl2PleUnIzT1erPZ",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJwyQOAb29Lg4RPZwruCoj1lo",
+         "plus_code" : {
+            "compound_code" : "8G62+67 Ouagadougou, Burkina Faso",
+            "global_code" : "7C4W8G62+67"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJwyQOAb29Lg4RPZwruCoj1lo",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 853
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ouagadougou, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.3478569,
+               "lng" : -1.593152
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.34894362989272,
+                  "lng" : -1.591780870107278
+               },
+               "southwest" : {
+                  "lat" : 12.34624397010728,
+                  "lng" : -1.594480529892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Cheval Mandingue",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1520,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108246714212411352030\"\u003etheotime p\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKypT5Dqp4YGCAG1Ajpq4dywPeUDfZUdkOmPeTvZ8j9PCD0hNVC14BZKUDjIrIil-XVrbJix5oCpyPB5288Ak2LGaStg9MnJyZWVR6wTbVT-duhNd-IAFTRT_nJFLuz6Nme3x45LGurR0rMmgFZQ_ufsao0LPY5LkEhGoXM2FWreh2X",
+               "width" : 2688
+            }
+         ],
+         "place_id" : "ChIJYSEhBASULg4Rns-Pliy6OKY",
+         "plus_code" : {
+            "compound_code" : "8CX4+4P Ouagadougou, Burkina Faso",
+            "global_code" : "7C4W8CX4+4P"
+         },
+         "rating" : 4,
+         "reference" : "ChIJYSEhBASULg4Rns-Pliy6OKY",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 61
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Unnamed Road, Sandogo, Ouagadougou, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.3103721,
+               "lng" : -1.6246462
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.31172622989272,
+                  "lng" : -1.623198220107278
+               },
+               "southwest" : {
+                  "lat" : 12.30902657010728,
+                  "lng" : -1.625897879892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Ferme de Gagam",
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113371990583278239232\"\u003eFaysal Manegdo Ouedraogo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI9yDzNBcVRNTS8zuZtJCTjyanKOZseD-d2C68dFxSf4gqZ1kw-iZFym5o0KVxaCY8D_M-CkfLF3Dpbq_SdvA7kWZ0w1XH6oUiRR1sN2XBQ9T2y_7kHqcUZUIxSULLPO_0M4qO4rXTf6eu4KX0p_MotPt9wmKfpr08oKXjrucgN59m4",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJNWfSBuSRLg4RtI-oH3WU5Jc",
+         "plus_code" : {
+            "compound_code" : "896G+44 Ouagadougou, Burkina Faso",
+            "global_code" : "7C4W896G+44"
+         },
+         "rating" : 0,
+         "reference" : "ChIJNWfSBuSRLg4RtI-oH3WU5Jc",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "02BP5098, Ouagadougou, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.3529146,
+               "lng" : -1.5491646
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.35427582989272,
+                  "lng" : -1.547763570107278
+               },
+               "southwest" : {
+                  "lat" : 12.35157617010728,
+                  "lng" : -1.550463229892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "COULEURS D AFRIQUE",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 336,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108598873270264361127\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKdH1moljhEOKy9gMd6FhFGmTuLRNR_HlmjGkCc7Q3EIcZnCk6BeloaNaRtyHylBOk29mowT0C7Tthx6EzJlykXAt3Pwk1qGlUUkNHERsDhAlpmcBAIkh376ghPjNFOz0_5QvBN890gD28i7zQEpDinjPh0bbWvlKdFEn2k-WP_7Lga",
+               "width" : 448
+            }
+         ],
+         "place_id" : "ChIJ01m_IkCVLg4RLnRgD46o9O8",
+         "plus_code" : {
+            "compound_code" : "9F32+58 Ouagadougou, Burkina Faso",
+            "global_code" : "7C4W9F32+58"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ01m_IkCVLg4RLnRgD46o9O8",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rue 19.66, Nonsin, Ouagadougou, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.37398,
+               "lng" : -1.5584683
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.37521397989272,
+                  "lng" : -1.557091220107278
+               },
+               "southwest" : {
+                  "lat" : 12.37251432010728,
+                  "lng" : -1.559790879892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Palais du Wogodogo Naaba",
+         "place_id" : "ChIJNfHXZqOVLg4Rmy0vjOs5w3I",
+         "plus_code" : {
+            "compound_code" : "9CFR+HJ Ouagadougou, Burkina Faso",
+            "global_code" : "7C4W9CFR+HJ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJNfHXZqOVLg4Rmy0vjOs5w3I",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "rue Zam Saago, Ouagadougou, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.3362429,
+               "lng" : -1.5771083
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.33757447989272,
+                  "lng" : -1.575784720107278
+               },
+               "southwest" : {
+                  "lat" : 12.33487482010728,
+                  "lng" : -1.578484379892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+         "name" : "CanalOlympia Pissy (Ciné Pissy)",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111096983598905645202\"\u003eludovic moal\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLtPmamjhg-V18O33lFflBoH1AqAX0X4ERfYVUvRGRhLYRIw1USlrfCULHcb5HuAMQwZAB3GraiaMb7ONMtHsqCEs-KpGp7u2yJwj7bxDMg4GOvXPp4pueTvczv29jGnmKfAiAAn-pDkYerRuqUik3VsJNMZR_ntrDUv2qzR7K70moP",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJSarjkEGXLg4RDEnlEb_ewyk",
+         "plus_code" : {
+            "compound_code" : "8CPF+F5 Ouagadougou, Burkina Faso",
+            "global_code" : "7C4W8CPF+F5"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJSarjkEGXLg4RDEnlEb_ewyk",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 300
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "55 Avenue de la Nation, Koulouba, Ouagadougou, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.3695712,
+               "lng" : -1.5255711
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.37088397989272,
+                  "lng" : -1.524452670107278
+               },
+               "southwest" : {
+                  "lat" : 12.36818432010728,
+                  "lng" : -1.527152329892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "PISAM Ouagadougou",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJA3LNiHOVLg4RAmZSgA9OPUo",
+         "plus_code" : {
+            "compound_code" : "9F9F+RQ Ouagadougou, Burkina Faso",
+            "global_code" : "7C4W9F9F+RQ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJA3LNiHOVLg4RAmZSgA9OPUo",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "rue 17.463, Sandogo, Ouagadougou, Burkina Faso",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.3339501,
+               "lng" : -1.570979
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.33536082989272,
+                  "lng" : -1.569667920107278
+               },
+               "southwest" : {
+                  "lat" : 12.33266117010728,
+                  "lng" : -1.572367579892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "PUB BAR",
+         "photos" : [
+            {
+               "height" : 1825,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109603024175969237312\"\u003efaozane kabre\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKXMp3khstBSbSmbJBPvCM1f8s0e63xHAwMCZ1WxWANyrlERliai7fwHA-HIg0UDvphVpcbwENVheBA1sViIcfc1us6aN1s1VaOf-71FjpD-sX_ht9jhhNRxE-XAqA-9gNrhDkUSE-fEkK1J3ltl9h1LAtwGl-8esZU5xU-QQqRGKmy",
+               "width" : 2738
+            }
+         ],
+         "place_id" : "ChIJabNISxKXLg4R2RymFDA6_qc",
+         "plus_code" : {
+            "compound_code" : "8CMH+HJ Ouagadougou, Burkina Faso",
+            "global_code" : "7C4W8CMH+HJ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJabNISxKXLg4R2RymFDA6_qc",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      }
+   ],
+   "status" : "OK"
+}

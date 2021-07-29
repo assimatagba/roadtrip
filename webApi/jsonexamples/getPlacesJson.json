@@ -1,0 +1,37 @@
+{
+    "candidates" : [
+       {
+          "formatted_address" : "Zogona, Ouagadougou, Burkina Faso",
+          "geometry" : {
+             "location" : {
+                "lat" : 12.3782546,
+                "lng" : -1.4884597
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 12.37961302989272,
+                   "lng" : -1.487070720107278
+                },
+                "southwest" : {
+                   "lat" : 12.37691337010728,
+                   "lng" : -1.489770379892722
+                }
+             }
+          },
+          "name" : "Le Paradisio",
+          "photos" : [
+             {
+                "height" : 3120,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/108645265361522248047\"\u003eThierry Schweitzer\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJhtZbY3JZYMMx6ew7g3D16ykUE7tBHyUwarKrnR-rjJfbT-6OKo-lMmjy_m1Se9GumrCFnrWyk7ELYHobgDqtq4NtjlCns0PfhMY4pVEJ4HNll2xzSL3oaQX-PGSC1eKZkwr_fX3By-MwIti7c3ExZ2mSRIYqnKQ6d6kcXgWsnYHij",
+                "width" : 4160
+             }
+          ],
+          "rating" : 3.7
+       }
+    ],
+    "status" : "OK"
+ }
+ 
